@@ -1,0 +1,7 @@
+{
+  "uuid": "%uuid%",
+  "name": "ColorChat",
+  "mainClass": "de.color.ColorChat",
+  "author": "S41b0t",
+  "description": "Adds color and format codes to your message."
+}
